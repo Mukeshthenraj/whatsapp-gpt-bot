@@ -123,10 +123,10 @@ Scan the QR code in WhatsApp → you're connected! ✅
 ## 📸 Screenshots (Demo)
 
 ### 🛒 Product Search
-![Product Search](docs/product_search.png)
+![Product Search](./docs/product_search.png)
 
 ### 💬 Chat & Chit-Chat
-![Chat Demo](docs/chitchat.png)
+![Chat Demo](./docs/chitchat.png)
 
 ------------------------------------------------------------------------
 
