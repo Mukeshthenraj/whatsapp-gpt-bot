@@ -125,6 +125,7 @@ Scan the QR code in WhatsApp → you're connected! ✅
 ### 🛒 Product Search
 ![Product Search](docs/product_search.png)
 
+
 ### 💬 Chat & Chit-Chat
 ![Chat Demo](docs/chitchat.png)
 
