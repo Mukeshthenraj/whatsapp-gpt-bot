@@ -1,0 +1,23 @@
+# --- Secrets (never commit) ---
+.env
+.env.*
+auth_info_baileys/
+
+# --- Node ---
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# --- Python (rag-pdf) ---
+rag-pdf/.venv/
+rag-pdf/__pycache__/
+rag-pdf/*.pyc
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+
+# --- Optional: keep local Ollama folder out if you have one ---
+Ollama/
